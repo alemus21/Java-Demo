@@ -1,0 +1,8 @@
+/target/
+/bibliotecaumg/bibliotecaumg-app/target/
+/bibliotecaumg/bibliotecaumg-controladores/target/
+/bibliotecaumg/bibliotecaumg-datasources/target/
+/bibliotecaumg/bibliotecaumg-dto/target/
+/bibliotecaumg/bibliotecaumg-modelo/target/
+/bibliotecaumg/bibliotecaumg-utils/target/
+/bibliotecaumg/bibliotecaumg-vista/target/
